@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "deno_jpg",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
+    googleApiKey: "AIzaSyBMtFTJIJda534vFZLbmg3VnnCa3c1kiMM",
     whatsappAdmin: "62821000000000" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
